@@ -35,6 +35,6 @@ tags:
 
 ## BUT
 
-![image-20260111155954266](https://cn-sy1.rains3.com/takesbot/2026/01/eff91e1ce2d84b33d40ae1bc71a93adf.png)
+
 
 WOW 2038启用！
